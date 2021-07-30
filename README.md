@@ -1,0 +1,2 @@
+# Palindrome Birthday Checker
+Enter your birthday to find out if your birthday is palindrome or not, if not palindrome find the nearest date to your birthday which is palindrome and the find the number of days by which you missed the palindrome date.
